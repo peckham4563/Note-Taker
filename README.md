@@ -11,6 +11,9 @@ The usage of this webite is to be able to organize your thoughts by having a web
 
 https://peckham4563.github.io/Note-Taker/
 
+![Screenshot](/Assets/Weather-Screenshot.png "Webpage Screenshot")
+
+
 ## Credits
 
 N/A
